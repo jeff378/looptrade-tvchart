@@ -1,0 +1,10 @@
+{
+  "strategies": [
+    {
+      "strategy": "추세선 돌파",
+      "status": "진입",
+      "entryTime": "2025-08-03T13:30:00",
+      "profit": 2.1
+    }
+  ]
+}

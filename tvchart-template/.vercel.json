@@ -1,0 +1,4 @@
+
+{
+  "rewrites": [{ "source": "/charting_library/(.*)", "destination": "/charting_library/$1" }]
+}
