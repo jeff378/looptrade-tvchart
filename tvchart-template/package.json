@@ -11,5 +11,12 @@
   },
   "scripts": {
     "dev": "next dev"
-  }
+  },
+  "name": "tvchart-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
